@@ -1,6 +1,6 @@
 # WordleSolver
 ## About
-A python command-line based script to help you solve your daily world.
+A python command-line based script to help you solve your daily wordle.
 
 ## Dependencies
 * Python
