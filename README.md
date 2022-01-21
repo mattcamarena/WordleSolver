@@ -11,3 +11,7 @@ Windows
 * Make sure you have all dependencies installed
 * Using your command prompt (CMD) enter the folder containing both the .py and .txt
 * Run "Python3 wordlesolver.py" to start the program and proceed as asked
+
+## Example
+![Screenshot](https://github.com/mattcamarena/WordleSolver/blob/main/wordle.png)
+![Screenshot](https://github.com/mattcamarena/WordleSolver/blob/main/commandlinewordle.png)
